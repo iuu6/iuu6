@@ -18,17 +18,17 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuu6&layout=compact" />
 
-<div style="text-align: right;">
-  <div>
-    <h3>My Language! 👋</h3>
-    <ul>
-      <li><span style="color: orange;">📙</span> Focusing on Golang & Web</li>
-      <li><span style="color: black;">🔨</span> Creator of interesting things</li>
-      <li><span style="color: brown;">🐏</span> And……</li>
-      <li><span style="color: brown;">🐏</span> Welcome</li>
-    </ul>
-  </div>
+<div align="right">
+
+### Hello, World! 👋
+
+- :orange_book: Focusing on Golang & Web
+- :hammer: Creator of interesting things
+- :ram: And……
+- :ram: Welcome
+
 </div>
+
 
 
 

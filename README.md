@@ -10,3 +10,7 @@
 - :hammer: Creator of interesting things
 - :ram: And……
 - :ram: Welcome
+
+### Visitor Count
+
+![Counter](https://moe-counter.glitch.me/get/@iuu6?theme=rule34)

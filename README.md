@@ -24,7 +24,7 @@
 | Property     | Data                                                         |
 | :----------- | ------------------------------------------------------------ |
 | **IDE**      | ![JetBrains](https://img.shields.io/badge/-JetBrains-3776AB?style=flat&logo=jetbrains&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-3776AB?style=flat&logo=visualstudiocode&logoColor=white) |
-| **CI / CD**  | [![Markdown](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/Steve245270533) [![Github](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/Steve245270533) [![Git](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/Steve245270533) |
+| **CI / CD**  | ![Markdown](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white) ![Github](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white) ![Git](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)|
 | **Platform** | ![Windows](https://img.shields.io/badge/Windows-%2525233178C6?style=flat-square&logo=windows&logoColor=%23ffffff&labelColor=%2327a2f0&color=%2327a2f0) ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-%25233178C6?style=flat-square&logo=archlinux&logoColor=white&labelColor=%232e7bc1&color=%232e7bc1) ![Debian](https://img.shields.io/badge/Debian-%A81D33?style=flat-square&logo=debian&logoColor=%23fff&labelColor=%A81D33&color=%23E34F26) ![RHEL](https://img.shields.io/badge/RHEL-%A81D33?style=flat-square&logo=redhat&logoColor=%23fff&labelColor=%EE0000&color=%23E34F26) |
 
 </div>

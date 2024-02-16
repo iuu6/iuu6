@@ -1,5 +1,6 @@
 <h1 align="center">Hi,there is IUU6~ 👋</h1>
 <h2 align="center">你好，这里是小魔w~ 👋</h2>
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Open+Sans&duration=4000&pause=500&random=false&width=435&lines=Welcome+to+our+world.;I+like+to+explore+all+kinds+of+interesting+things.;I'm+open+to+all+kinds+of+novelties.;I+want+to+create+a+world+of+my+own+in+code.;In+this+world%2C+I'm+a+normal+girl!" alt="Typing SVG" />
 <img align="center" src="https://raw.githubusercontent.com/iuu6/iuu6/main/pic/whoami.jpg" alt="WhoAmI" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=iuu6&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />

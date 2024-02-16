@@ -57,3 +57,5 @@ qwq…Here it is IUU6, mingling on all platforms
 ### Visitor Count
 
 ![Counter](https://moe-counter.glitch.me/get/@iuu6?theme=rule34)
+
+![bottom_wave](https://raw.githubusercontent.com/iuu6/iuu6/main/pic/bottom_wave.svg)

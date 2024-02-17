@@ -14,13 +14,11 @@
 - :ram: And……
 - :ram: Welcome
 
-------
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuu6&layout=compact" />
-
 <div align="right">
  
 ### Development Environments 👨‍💻
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuu6&layout=compact" />
 
 | Property     | Data                                                         |
 | :----------- | ------------------------------------------------------------ |

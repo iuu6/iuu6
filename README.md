@@ -23,11 +23,13 @@
 
 <br clear="right" />
 
+<div align="right">
+
 ### Development Environments 👨‍💻
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/top-langs-dark.svg" />
-  <img src="profile/top-langs-light.svg" alt="Top Languages" />
+  <img align="left" src="profile/top-langs-light.svg" alt="Top Languages" />
 </picture>
 
 | Property     | Data                                                         |
@@ -36,6 +38,10 @@
 | **Tools**    | ![Markdown](https://img.shields.io/badge/-Markdown-2088FF?style=flat-square&logo=Markdown&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-2088FF?style=flat-square&logo=GitHub&logoColor=white) ![Git](https://img.shields.io/badge/-Git-2088FF?style=flat-square&logo=Git&logoColor=white) |
 | **CI / CD**  | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
 | **Platform** | ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white) |
+
+</div>
+
+<br clear="all" />
 
 ## Info
 
@@ -63,6 +69,6 @@ qwq…Here it is IUU6, mingling on all platforms
 
 ### Visitor Count
 
-![Visitor Count](https://komarev.com/ghpvc/?username=iuu6&style=flat-square&color=F700DE&label=Visitors)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=iuu6.iuu6&left_text=Visitors&left_color=%23555555&right_color=%23F78DA7)
 
 ![bottom_wave](pic/bottom_wave.svg)
